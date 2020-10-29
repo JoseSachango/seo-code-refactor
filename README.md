@@ -28,9 +28,5 @@ THEN I find a concise, descriptive title
 
 * When working with tags that have the same style properties it's a good idea to give them all a similiar class attribute. This makes  using the CSS selectors more convenient.
 
-* Application's links all function correctly.
 
-* Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
-
-* Application's CSS file is properly commented.
 
